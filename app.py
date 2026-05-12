@@ -24,7 +24,7 @@ cities=[
     'Hyderabad'
 ]
 
-st.title('IPL Win Predictor(***LAST 30 BALLS ONLY***')
+st.title('IPL Win Predictor\n(***LAST 30 BALLS ONLY***)')
 
 batting_team=st.selectbox('Batting Team',teams)
 
